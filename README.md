@@ -1,2 +1,2 @@
-echo "This is amazing right now"
+echo 'This is amazing right now'
 
