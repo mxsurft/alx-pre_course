@@ -1,2 +1,2 @@
-echo 'This is amazing right now'
+'My first readme'
 
